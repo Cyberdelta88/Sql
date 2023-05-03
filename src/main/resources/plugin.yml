@@ -1,0 +1,6 @@
+name: Sql
+version: 0.1
+main: fr.cyberdelta88.sql.Sql
+commands:
+  mongodbwrite:
+  maventest :
